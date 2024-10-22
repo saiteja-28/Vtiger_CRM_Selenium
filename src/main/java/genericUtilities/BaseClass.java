@@ -1,5 +1,5 @@
 package genericUtilities;
-
+//base class example
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
