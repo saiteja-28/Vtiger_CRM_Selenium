@@ -62,7 +62,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>VtigerSuite</id>
+			<id>distributedParallel</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -71,7 +71,7 @@
 						<version>3.5.0</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>VtigerSuite.xml</suiteXmlFile>
+								<suiteXmlFile>distributedParallel.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
